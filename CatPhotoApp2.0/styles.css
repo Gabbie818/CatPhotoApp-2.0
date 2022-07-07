@@ -1,0 +1,13 @@
+.center {
+text-align: center;
+}
+.background {
+    background: linear-gradient(gray, yellow)
+}
+body {
+    background-color: #1fcecb;
+}
+fieldset {
+    border-style: dotted;
+    border-color: yellow;
+}
